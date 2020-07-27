@@ -1,0 +1,16 @@
+CSS Hasta transitions
+
+- usuario (max 12 letras)
+- contraseña (número y mayúscucla: stackoverflow)
+- repetir contraseña (iguales)
+- email (xxxx@xxxx.xxx)
+- Serie favorita ["Game of Thrones", "Breaking Bad", "Black Mirror", "Sherlock", "Ozark", "You", "Chernobyl"]
+- Aceptar terminos y condiciones (debe estar checkeado)
+
+
+Mostrar error abajo (funcion, crea div)
+Linea roja en los campos que estén mal
+
+
+Para email
+[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])
